@@ -1,0 +1,24 @@
+{
+  "name": "smartbrain-api",
+  "version": "1.0.0",
+  "description": "SMARTBRAIN API (backend)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Frederick-Chon/smartbrain-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Frederick-Chon/smartbrain-api/issues"
+  },
+  "homepage": "https://github.com/Frederick-Chon/smartbrain-api#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4"
+  }
+}
