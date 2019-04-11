@@ -19,6 +19,7 @@
   "homepage": "https://github.com/Frederick-Chon/smartbrain-api#readme",
   "dependencies": {
     "body-parser": "^1.18.3",
+    "cors": "^2.8.5",
     "express": "^4.16.4"
   }
 }
